@@ -2,4 +2,4 @@
 
 ## Hola soy Cris!
 
-Texto de ejemplo
+Ejemplo
